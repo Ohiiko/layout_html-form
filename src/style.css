@@ -7,6 +7,6 @@
   margin-bottom: 20px;
 }
 
-.formBlock .formField:last-of-type {
+.formField:last-child {
   margin-bottom: 0;
 }
